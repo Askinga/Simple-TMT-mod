@@ -1,15 +1,15 @@
 {
 	"$schema": "./projInfo-schema.json",
 
-	"title": "Profectus",
-	"description": "A project made in Profectus",
-	"id": "",
-	"author": "",
+	"title": "Prestige Layers Tree",
+	"description": "Prestige Layers Tree made in Profectus",
+	"id": "Askinga1233461",
+	"author": "Askinga",
 	"discordName": "",
 	"discordLink": "",
 
 	"versionNumber": "0.0",
-	"versionTitle": "Initial Commit",
+	"versionTitle": "Literally nothing",
 
 	"allowGoBack": true,
 	"defaultShowSmall": false,
